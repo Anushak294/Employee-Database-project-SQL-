@@ -3,6 +3,7 @@
 create database EmployeeDBB
 use EmployeeDBB
 
+
 create table state(StateID int primary key identity(1,1),
 			   StateName varchar(50))
 
