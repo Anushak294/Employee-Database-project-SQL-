@@ -4,7 +4,6 @@ values('Gujarat'),
       ('Rajasthan'),
 	  ('Uttar Pradesh')
 
-
 insert into City
 values('Rajkot',1),
       ('Gandhinagar',1),
