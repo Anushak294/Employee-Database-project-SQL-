@@ -3,6 +3,7 @@ Sample queries
 --Get all employee details
 select * from employee
 
+
 --Display the details of employee its name start with 'r'. 	
 select * from employee
 where EmpName like 'r%'
